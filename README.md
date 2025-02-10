@@ -16,11 +16,12 @@ This Excel project analyzes and visualizes sales distribution data. It provides 
 
 **DataSet Used**
 <a href="https://github.com/simar755/Sales-Distribution-Share/blob/main/Sales%20Distribution%20Share(RAW).xlsx">Dataset</a>
+
 **Dashboard Interaction**
 <a href="https://github.com/simar755/Sales-Distribution-Share/blob/main/Screenshot%202025-02-06%20165135.png">View Dashboard</a>
 
 **Dashboard**
-![Picture.png)]https://github.com/simar755/Sales-Distribution-Share/blob/main/Screenshot%202025-02-06%20165135.png)
+![Picture.png)](https://github.com/simar755/Sales-Distribution-Share/blob/main/Screenshot%202025-02-06%20165135.png)
 
 **Conclusion**
 
